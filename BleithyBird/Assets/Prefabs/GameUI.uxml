@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="TopLeftSection" style="border-left-color: rgba(0, 0, 0, 0.8); border-right-color: rgba(0, 0, 0, 0.8); border-top-color: rgba(0, 0, 0, 0.8); border-bottom-color: rgba(0, 0, 0, 0.8); width: 30%; height: 7%; border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0; background-color: rgba(0, 0, 0, 0.35); background-image: none; margin-left: 2%; margin-top: 2%; flex-direction: row; align-items: auto; justify-content: center;">
+        <ui:VisualElement name="HealthIcon1" style="background-image: url(&apos;project://database/Assets/Images/bleith.png?fileID=-1796235425&amp;guid=defd8c6444e1a164a93d3698134dc3a0&amp;type=3#bleith_38&apos;); width: 34px; height: 34px;" />
+        <ui:VisualElement name="HealthIcon2" focusable="false" style="background-image: url(&apos;project://database/Assets/Images/bleith.png?fileID=-1796235425&amp;guid=defd8c6444e1a164a93d3698134dc3a0&amp;type=3#bleith_38&apos;); width: 34px; height: 34px;" />
+        <ui:VisualElement name="HealthIcon3" focusable="false" style="background-image: url(&apos;project://database/Assets/Images/bleith.png?fileID=-1796235425&amp;guid=defd8c6444e1a164a93d3698134dc3a0&amp;type=3#bleith_38&apos;); width: 34px; height: 34px;" />
+    </ui:VisualElement>
+</ui:UXML>
