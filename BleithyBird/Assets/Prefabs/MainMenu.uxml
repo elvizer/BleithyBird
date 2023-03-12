@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/DefaultButtons.uss?fileID=7433441132597879392&amp;guid=dd73faaa555383546b512964c813fc38&amp;type=3#DefaultButtons" />
+    <ui:VisualElement name="Title" style="background-image: url(&apos;project://database/Assets/Images/bleith.png?fileID=2019565677&amp;guid=defd8c6444e1a164a93d3698134dc3a0&amp;type=3#bleith_1&apos;); width: 254px; height: 63px; margin-left: 13%; margin-right: 0; margin-top: 5%; margin-bottom: 0;" />
+    <ui:VisualElement name="TitlePic" style="background-image: url(&apos;project://database/Assets/Images/bleith.png?fileID=1154662315&amp;guid=defd8c6444e1a164a93d3698134dc3a0&amp;type=3#bleith_2&apos;); width: 71px; height: 75px; margin-left: 38%; margin-right: 0; margin-top: -7%; margin-bottom: 0;" />
+    <ui:Button text="Start" display-tooltip-when-elided="true" name="Start" class="menu_buttons" style="-unity-text-align: middle-center;" />
+</ui:UXML>
